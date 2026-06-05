@@ -87,7 +87,7 @@
     <div class="tile">
         <h2>Resume</h2>
         <p>Download my current resume (PDF).</p>
-        <a class="button" href="YOUR-RESUME-LINK-HERE" target="_blank">Download Resume</a>
+        <a class="button" href="https://raw.githubusercontent.com/adrianwillanger-cyber/Adrian-Willanger-Resume/main/ADRIAN%20WILLANGE1.pdf" target="_blank">Download Resume</
     </div>
 
     <footer>
